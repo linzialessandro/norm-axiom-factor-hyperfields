@@ -2,7 +2,7 @@
 
 Source for the note *The norm axiom and factor hyperfields* (Alessandro Linzi).
 
-arXiv: to be added
+arXiv: [2611.29473](https://arxiv.org/abs/2611.29473)
 
 It concerns Question 1 of Touchard and the author (J. Pure Appl. Algebra 229 (2025) 107985):
 is every valued hyperfield of the form H_rho(K) for a valued field K and an initial
